@@ -2,8 +2,8 @@
 This project is a Power BI dashboard built to analyze sales data from Blinkit, a fast-growing quick-commerce grocery delivery platform in India. It provides detailed insights into outlet-wise and category-wise sales performance to help decision-makers understand key sales trends and optimize operations.
 
 KEY FEATURES:
-    Sales Trend Analysis â€“ Visualize day-wise/month-wise sales growth
-    Top Selling Product Categories â€“ Identify high-performing product categories
+    Sales Trend Analysis Visualize day-wise/month-wise sales growth
+    Top Selling Product Categories Identify high-performing product categories
     Outlet-Wise Sales â€“ Compare revenue across delivery locations/outlets
     Outlet Size-Wise Sales â€“ Analyze performance based on outlet scale/size
 
@@ -20,4 +20,5 @@ BUSINESS IMPACT:
 
 FILES INCLUDED:
     Blinkit_SalesDashboard.pbix - Power BI dashboard file
+    Blinit Grocery (Sales) Data.xlxs
     Feel free to clone, fork, or contribute. If you're a recruiter or hiring manager, this is one of my hands-on projects that demonstrates real business reporting skills using Power BI.
